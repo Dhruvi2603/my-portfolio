@@ -1,0 +1,25 @@
+[
+    
+    {
+        "title": "StyleLane",
+        "description": "Frontend design of e-commerce website",
+        "skills": ["Reactjs", "tailwind css"],
+        "demo": "https://meek-meerkat-f61263.netlify.app/",
+        "source": "https://github.com/Dhruvi2603/StyleLane-Project"
+    },
+    {
+        "title": "ConnectWave",
+        "description": "Full stack social media website",
+        "skills": ["Reactjs", "tailwind css", "node js", "Mongodb"],
+        "demo": "https://connectwave-frontend.onrender.com",
+        "source": "https://github.com/Dhruvi2603/connectwave"
+    },
+    {
+        "title": "Expense Tracker",
+        "description": "Frontend design of Expense Tracker",
+        "skills": ["Reactjs", "tailwind css"],
+        "demo": "https://melodious-licorice-d4f1fe.netlify.app/",
+        "source": "https://github.com/Dhruvi2603/expense-tracker"
+    }
+    
+]
